@@ -1,4 +1,4 @@
-# Hi, I'm Apoorv 👋
+# Hi, I'm Apoorv 
 
 **AI Researcher** · Shoolini University, India · 3rd Year B.Tech (Artificial Intelligence)
 
