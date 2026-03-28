@@ -6,7 +6,7 @@ I work at the intersection of **deep learning and clinical medicine** — specif
 
 ---
 
-## 🔬 The Problem I'm 
+## 🔬 The Problem I'm Working On
 
 I built a Swin Transformer for breast cancer detection on CBIS-DDSM.
 
