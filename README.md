@@ -24,9 +24,7 @@ The standard fix made it **worse**.
 
 I'm currently building an **ensemble-of-experts** with density-stratified pathways and subgroup-specific calibration heads — so each expert learns the signal structure of its own tissue subgroup independently.
 
-📄 Manuscript in preparation → **MICCAI 2026**
 
-👉 **[FairBreastAI-Bias-Mitigation](https://github.com/iamApoorv-03/FairBreastAI-Bias-Mitigation)**
 
 ---
 
@@ -68,4 +66,4 @@ Fairness-aware deep learning · Medical image analysis · Distribution shift in 
 
 - 📧 apoorvprashar2006@gmail.com
 - 💼 [linkedin.com/in/apoorv-ai](https://linkedin.com/in/apoorv-ai)
-- 🗓️ Available for research internships from **May 2026**
+
