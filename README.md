@@ -7,7 +7,7 @@ I focus on developing interpretable and privacy-preserving AI for clinical appli
 - 🔬 Currently: Research Intern @ IIT Hyderabad and Remote R&D Intern @ Khalifa University.
 - 🏆 2nd Place: Boltzmann Labs International Bio-Design Hackathon (Drug Discovery Pipeline).
 - 🎓 GATE 2026 Qualified | National Debate Finalist.
-- 🛠️ Technical Stack: Python, PyTorch, FastAPI, Docker, LaTeX, Markdown.
+- 🛠️ Technical Stack: Python, PyTorch, FastAPI, Docker, LaTeX.
 
 ---
 ### 🧬 Ongoing Research
