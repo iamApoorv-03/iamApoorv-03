@@ -14,5 +14,5 @@ I focus on developing interpretable and privacy-preserving AI for clinical appli
 My current work involves:
 * **Causal Inference & Federated Learning:** Multi-modal oncology stratification.
 * **Medical Imaging:** Interpretable diagnostics for oncology and metabolic health.
-* **Generative AI:** Structure-based ligand generation for drug discovery.
+
 
